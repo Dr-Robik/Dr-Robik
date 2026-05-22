@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DrRobik</h1>
-<h3 align="center">Cybersecurity Student</h3>
+<h3 align="center">A Cube</h3>
 
 - I regularly write articles on Medium [https://medium.com/@Dr_Robik](https://medium.com/@Dr_Robik)
 
